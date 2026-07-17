@@ -1,6 +1,6 @@
 # W2 LAB — Prompt Engineering Lab
 
-Consultant scenario: diagnosing and fixing an unreliable customer-service chatbot for "TechFlow Solutions" by systematically testing and improving prompts for three tasks — sentiment analysis, product description generation, and data extraction.
+Diagnosing and fixing an unreliable customer-service chatbot for "TechFlow Solutions" by systematically testing and improving prompts for three tasks — sentiment analysis, product description generation, and data extraction.
 
 ## Repository map
 
